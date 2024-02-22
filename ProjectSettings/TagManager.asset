@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ProgressAI
+  - Road
+  - Terrain
+  - Rumblestrip
+  - Barrier
+  - Progress
+  - AICar
+  - Fire
+  - CinemachineTarget
+  - ProgressAI1
+  - ProgressAI2
+  - ProgressAI4
+  - ProgressAI5
+  - ProgressAI6
+  - ProgressAI7
+  - ProgressAI3
+  - ProgressAI8
+  - AI1
+  - AI2
+  - AI3
+  - AI4
+  - AI5
+  - AI6
+  - AI7
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
